@@ -1,0 +1,6 @@
+{
+  "name": "Mayor Spends",
+  "description": "Nigerian-themed personal fitness tracker and energy expenditure monitor with real-time workout data visualization, goal progression, and cultural Naija motivation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
